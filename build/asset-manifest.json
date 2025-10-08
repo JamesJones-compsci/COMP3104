@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JamesJones-compsci/COMP3104/static/css/main.27ca76a1.css",
-    "main.js": "/JamesJones-compsci/COMP3104/static/js/main.43fd0f5f.js",
-    "static/js/453.963c96ea.chunk.js": "/JamesJones-compsci/COMP3104/static/js/453.963c96ea.chunk.js",
-    "index.html": "/JamesJones-compsci/COMP3104/index.html",
-    "main.27ca76a1.css.map": "/JamesJones-compsci/COMP3104/static/css/main.27ca76a1.css.map",
-    "main.43fd0f5f.js.map": "/JamesJones-compsci/COMP3104/static/js/main.43fd0f5f.js.map",
-    "453.963c96ea.chunk.js.map": "/JamesJones-compsci/COMP3104/static/js/453.963c96ea.chunk.js.map"
+    "main.css": "/COMP3104/static/css/main.27ca76a1.css",
+    "main.js": "/COMP3104/static/js/main.84af7b45.js",
+    "static/js/453.963c96ea.chunk.js": "/COMP3104/static/js/453.963c96ea.chunk.js",
+    "index.html": "/COMP3104/index.html",
+    "main.27ca76a1.css.map": "/COMP3104/static/css/main.27ca76a1.css.map",
+    "main.84af7b45.js.map": "/COMP3104/static/js/main.84af7b45.js.map",
+    "453.963c96ea.chunk.js.map": "/COMP3104/static/js/453.963c96ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.43fd0f5f.js"
+    "static/js/main.84af7b45.js"
   ]
 }
